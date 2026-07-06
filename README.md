@@ -2,7 +2,7 @@
 
 This project analyzes OLA ride-booking data using SQL and Power BI to gain insights into ride volumes, customer behavior, and driver performance. It focuses on booking statuses, revenue breakdowns by payment method, and identifying top customers. SQL queries calculate key statistics, while Power BI dashboards visualize ride trends, vehicle performance, and revenue patterns. The analysis helps optimize OLA's operations by uncovering trends and improvement opportunities.
 
-## 🎥 Demo
+
 
 
 > [!NOTE]
